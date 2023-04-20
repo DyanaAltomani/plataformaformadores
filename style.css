@@ -1,1 +1,33 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.escola{
 
+    background-color: darkgray;
+
+}
+
+.professores {
+
+    background-color: #FBDF4B;
+}
+
+.professores__div-imagem {
+    width: 120px;
+    height: auto;
+}
+.escola__imagem {
+width: 300px;
+height: auto;
+
+}
+.escola{
+    display: flex;
+    background-color: darkgray;
+    justify-content: space-around;
+    align-items: center;
+    margin: 20px;
+    border-radius: 40px;
+
+}
